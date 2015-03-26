@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
 	vendor/samsung/celox-common/proprietary/lib/hw/nfc.qcom.so:system/lib/hw/nfc.qcom.so \
 	vendor/samsung/celox-common/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
-	vendor/samsung/celox-common/proprietary/vendor/lib/hw/power.qcom.so:system/vendor/lib/hw/power.qcom.so \
 	vendor/samsung/celox-common/proprietary/etc/wifi/nvram_net.txt_murata:system/etc/wifi/nvram_net.txt_murata \
 	vendor/samsung/celox-common/proprietary/etc/wifi/nvram_mfg.txt_murata:system/etc/wifi/nvram_mfg.txt_murata \
 	vendor/samsung/celox-common/proprietary/bin/mpdecision:system/bin/mpdecision \
