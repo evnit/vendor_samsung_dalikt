@@ -14,6 +14,7 @@
 
 # Proprietary files
 PRODUCT_COPY_FILES += \
+	vendor/samsung/dalikt/proprietary/app/com.dc.mhf/base.apk:system/app/com.dc.mhf/base.apk \
 	vendor/samsung/dalikt/proprietary/bin/netmgrd:system/bin/netmgrd \
 	vendor/samsung/dalikt/proprietary/bin/qcks:system/bin/qcks \
 	vendor/samsung/dalikt/proprietary/bin/qmiproxy:system/bin/qmiproxy \

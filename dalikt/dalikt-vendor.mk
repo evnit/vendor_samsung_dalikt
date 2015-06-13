@@ -16,3 +16,4 @@
 
 $(call inherit-product, vendor/samsung/celox-common/celox-vendor-blobs.mk)
 $(call inherit-product, vendor/samsung/dalikt/dalikt-vendor-blobs.mk)
+$(call inherit-product, vendor/samsung/gapps/gapps-vendor-blobs.mk)
