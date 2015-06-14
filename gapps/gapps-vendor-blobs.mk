@@ -14,20 +14,16 @@
 
 # Proprietary files
 PRODUCT_COPY_FILES += \
-	vendor/samsung/gapps/system/app/GoogleCalendarSyncAdapter/GoogleCalendarSyncAdapter.apk:system/app/GoogleCalendarSyncAdapter/GoogleCalendarSyncAdapter.apk \
 	vendor/samsung/gapps/system/app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk:system/app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk \
 	vendor/samsung/gapps/system/etc/permissions/com.google.android.camera2.xml:system/etc/permissions/com.google.android.camera2.xml \
-	vendor/samsung/gapps/system/etc/permissions/com.google.android.dialer.support.xml:system/etc/permissions/com.google.android.dialer.support.xml \
 	vendor/samsung/gapps/system/etc/permissions/com.google.android.maps.xml:system/etc/permissions/com.google.android.maps.xml \
 	vendor/samsung/gapps/system/etc/permissions/com.google.android.media.effects.xml:system/etc/permissions/com.google.android.media.effects.xml \
 	vendor/samsung/gapps/system/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
 	vendor/samsung/gapps/system/etc/preferred-apps/google.xml:system/etc/preferred-apps/google.xml \
 	vendor/samsung/gapps/system/framework/com.google.android.camera2.jar:system/framework/com.google.android.camera2.jar \
-	vendor/samsung/gapps/system/framework/com.google.android.dialer.support.jar:system/framework/com.google.android.dialer.support.jar \
 	vendor/samsung/gapps/system/framework/com.google.android.maps.jar:system/framework/com.google.android.maps.jar \
 	vendor/samsung/gapps/system/framework/com.google.android.media.effects.jar:system/framework/com.google.android.media.effects.jar \
 	vendor/samsung/gapps/system/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar \
-	vendor/samsung/gapps/system/lib/libjni_latinime.so:system/lib/libjni_latinime.so \
 	vendor/samsung/gapps/system/priv-app/GoogleBackupTransport/GoogleBackupTransport.apk:system/priv-app/GoogleBackupTransport/GoogleBackupTransport.apk \
 	vendor/samsung/gapps/system/priv-app/GoogleFeedback/GoogleFeedback.apk:system/priv-app/GoogleFeedback/GoogleFeedback.apk \
 	vendor/samsung/gapps/system/priv-app/GoogleLoginService/GoogleLoginService.apk:system/priv-app/GoogleLoginService/GoogleLoginService.apk \
