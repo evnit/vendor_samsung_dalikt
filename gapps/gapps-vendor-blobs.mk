@@ -43,5 +43,26 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/gapps/system/priv-app/PrebuiltGmsCore/lib/arm/libNearbyApp.so:system/priv-app/PrebuiltGmsCore/lib/arm/libNearbyApp.so \
 	vendor/samsung/gapps/system/priv-app/PrebuiltGmsCore/lib/arm/libsslwrapper_jni.so:system/priv-app/PrebuiltGmsCore/lib/arm/libsslwrapper_jni.so \
 	vendor/samsung/gapps/system/priv-app/PrebuiltGmsCore/lib/arm/libWhisper.so:system/priv-app/PrebuiltGmsCore/lib/arm/libWhisper.so \
-	vendor/samsung/gapps/system/priv-app/SetupWizard/SetupWizard.apk:system/priv-app/SetupWizard/SetupWizard.apk
-
+	vendor/samsung/gapps/system/priv-app/SetupWizard/SetupWizard.apk:system/priv-app/SetupWizard/SetupWizard.apk \
+	vendor/samsung/gapps/system/app/earth/app/GoogleEarth/GoogleEarth.apk:system/app/GoogleEarth/GoogleEarth.apk \
+	vendor/samsung/gapps/system/app/earth/app/GoogleEarth/lib/arm/libearthmobile.so:system/app/GoogleEarth/lib/arm/libearthmobile.so \
+	vendor/samsung/gapps/system/app/faceunlock/app/FaceLock/FaceLock.apk:system/app/FaceLock/FaceLock.apk \
+	vendor/samsung/gapps/system/app/faceunlock/lib/libfacelock_jni.so:system/lib/libfacelock_jni.so \
+	vendor/samsung/gapps/system/app/faceunlock/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so \
+	vendor/samsung/gapps/system/app/faceunlock/vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/landmark_group_meta_data.bin:system/vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/landmark_group_meta_data.bin \
+	vendor/samsung/gapps/system/app/faceunlock/vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/left_eye-y0-yi45-p0-pi45-r0-ri20.lg_32-tree7-wmd.bin:system/vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/left_eye-y0-yi45-p0-pi45-r0-ri20.lg_32-tree7-wmd.bin \
+	vendor/samsung/gapps/system/app/faceunlock/vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/nose_base-y0-yi45-p0-pi45-r0-ri20.lg_32-tree7-wmd.bin:system/vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/nose_base-y0-yi45-p0-pi45-r0-ri20.lg_32-tree7-wmd.bin \
+	vendor/samsung/gapps/system/app/faceunlock/vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/right_eye-y0-yi45-p0-pi45-r0-ri20.lg_32-3-tree7-wmd.bin:system/vendor/pittpatt/models/detection/multi_pose_face_landmark_detectors.8/right_eye-y0-yi45-p0-pi45-r0-ri20.lg_32-3-tree7-wmd.bin \
+	vendor/samsung/gapps/system/app/faceunlock/vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/head-y0-yi45-p0-pi45-r0-ri30.4a-v24-tree7-2-wmd.bin:system/vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/head-y0-yi45-p0-pi45-r0-ri30.4a-v24-tree7-2-wmd.bin \
+	vendor/samsung/gapps/system/app/faceunlock/vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/head-y0-yi45-p0-pi45-rn30-ri30.5-v24-tree7-2-wmd.bin:system/vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/head-y0-yi45-p0-pi45-rn30-ri30.5-v24-tree7-2-wmd.bin \
+	vendor/samsung/gapps/system/app/faceunlock/vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/head-y0-yi45-p0-pi45-rp30-ri30.5-v24-tree7-2-wmd.bin:system/vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/head-y0-yi45-p0-pi45-rp30-ri30.5-v24-tree7-2-wmd.bin \
+	vendor/samsung/gapps/system/app/faceunlock/vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/pose-r.8.1.bin:system/vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/pose-r.8.1.bin \
+	vendor/samsung/gapps/system/app/faceunlock/vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/pose-y-r.8.1.bin:system/vendor/pittpatt/models/detection/yaw_roll_face_detectors.7.1/pose-y-r.8.1.bin \
+	vendor/samsung/gapps/system/app/faceunlock/vendor/pittpatt/models/recognition/face.face.y0-y0-71-N-tree_7-wmd.bin:system/vendor/pittpatt/models/recognition/face.face.y0-y0-71-N-tree_7-wmd.bin \
+	vendor/samsung/gapps/system/app/maps/app/Maps/Maps.apk:system/app/Maps/Maps.apk \
+	vendor/samsung/gapps/system/app/maps/app/Maps/lib/arm/libcrashreporterer.so:system/app/Maps/lib/arm/libcrashreporterer.so \
+	vendor/samsung/gapps/system/app/maps/app/Maps/lib/arm/libgmm-jni.so:system/app/Maps/lib/arm/libgmm-jni.so \
+	vendor/samsung/gapps/system/app/youtube/app/YouTube/YouTube.apk:system/app/YouTube/YouTube.apk \
+	vendor/samsung/gapps/system/app/youtube/app/YouTube/lib/arm/libcronet.so:system/app/YouTube/lib/arm/libcronet.so \
+	vendor/samsung/gapps/system/app/youtube/app/YouTube/lib/arm/libfilterframework_jni.so:system/app/YouTube/lib/arm/libfilterframework_jni.so \
+	vendor/samsung/gapps/system/app/youtube/app/YouTube/lib/arm/libm2ts_player.so:system/app/YouTube/lib/arm/libm2ts_player.so
