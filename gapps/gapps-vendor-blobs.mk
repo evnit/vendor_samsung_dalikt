@@ -44,8 +44,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/gapps/system/priv-app/PrebuiltGmsCore/lib/arm/libsslwrapper_jni.so:system/priv-app/PrebuiltGmsCore/lib/arm/libsslwrapper_jni.so \
 	vendor/samsung/gapps/system/priv-app/PrebuiltGmsCore/lib/arm/libWhisper.so:system/priv-app/PrebuiltGmsCore/lib/arm/libWhisper.so \
 	vendor/samsung/gapps/system/priv-app/SetupWizard/SetupWizard.apk:system/priv-app/SetupWizard/SetupWizard.apk \
-	vendor/samsung/gapps/system/app/earth/app/GoogleEarth/GoogleEarth.apk:system/app/GoogleEarth/GoogleEarth.apk \
-	vendor/samsung/gapps/system/app/earth/app/GoogleEarth/lib/arm/libearthmobile.so:system/app/GoogleEarth/lib/arm/libearthmobile.so \
 	vendor/samsung/gapps/system/app/faceunlock/app/FaceLock/FaceLock.apk:system/app/FaceLock/FaceLock.apk \
 	vendor/samsung/gapps/system/app/faceunlock/lib/libfacelock_jni.so:system/lib/libfacelock_jni.so \
 	vendor/samsung/gapps/system/app/faceunlock/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so \
