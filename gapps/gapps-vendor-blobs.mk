@@ -44,6 +44,23 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/gapps/system/priv-app/PrebuiltGmsCore/lib/arm/libsslwrapper_jni.so:system/priv-app/PrebuiltGmsCore/lib/arm/libsslwrapper_jni.so \
 	vendor/samsung/gapps/system/priv-app/PrebuiltGmsCore/lib/arm/libWhisper.so:system/priv-app/PrebuiltGmsCore/lib/arm/libWhisper.so \
 	vendor/samsung/gapps/system/priv-app/SetupWizard/SetupWizard.apk:system/priv-app/SetupWizard/SetupWizard.apk \
+	vendor/samsung/gapps/system/app/Chrome/app/Chrome/Chrome.apk:system/app/Chrome/Chrome.apk \
+	vendor/samsung/gapps/system/app/Chrome/app/Chrome/lib/arm/libchrome.1847.114.so:system/app/Chrome/lib/arm/libchrome.1847.114.so \
+	vendor/samsung/gapps/system/app/Chrome/app/Chrome/lib/arm/libchrome.1916.122.so:system/app/Chrome/lib/arm/libchrome.1916.122.so \
+	vendor/samsung/gapps/system/app/Chrome/app/Chrome/lib/arm/libchrome.1916.138.so:system/app/Chrome/lib/arm/libchrome.1916.138.so \
+	vendor/samsung/gapps/system/app/Chrome/app/Chrome/lib/arm/libchrome.1916.141.so:system/app/Chrome/lib/arm/libchrome.1916.141.so \
+	vendor/samsung/gapps/system/app/Chrome/app/Chrome/lib/arm/libchrome.1985.122.so:system/app/Chrome/lib/arm/libchrome.1985.122.so \
+	vendor/samsung/gapps/system/app/Chrome/app/Chrome/lib/arm/libchrome.1985.128.so:system/app/Chrome/lib/arm/libchrome.1985.128.so \
+	vendor/samsung/gapps/system/app/Chrome/app/Chrome/lib/arm/libchrome.1985.131.so:system/app/Chrome/lib/arm/libchrome.1985.131.so \
+	vendor/samsung/gapps/system/app/Chrome/app/Chrome/lib/arm/libchrome.1985.135.so:system/app/Chrome/lib/arm/libchrome.1985.135.so \
+	vendor/samsung/gapps/system/app/Chrome/app/Chrome/lib/arm/libchrome.2062.117.so:system/app/Chrome/lib/arm/libchrome.2062.117.so \
+	vendor/samsung/gapps/system/app/Chrome/app/Chrome/lib/arm/libchrome.2125.102.so:system/app/Chrome/lib/arm/libchrome.2125.102.so \
+	vendor/samsung/gapps/system/app/Chrome/app/Chrome/lib/arm/libchrome.2125.114.so:system/app/Chrome/lib/arm/libchrome.2125.114.so \
+	vendor/samsung/gapps/system/app/Chrome/app/Chrome/lib/arm/libchrome.2171.37.so:system/app/Chrome/lib/arm/libchrome.2171.37.so \
+	vendor/samsung/gapps/system/app/Chrome/app/Chrome/lib/arm/libchrome.2171.59.so:system/app/Chrome/lib/arm/libchrome.2171.59.so \
+	vendor/samsung/gapps/system/app/Chrome/app/Chrome/lib/arm/libchrome.so:system/app/Chrome/lib/arm/libchrome.so \
+	vendor/samsung/gapps/system/app/Chrome/app/Chrome/lib/arm/libchromeview.so:system/app/Chrome/lib/arm/libchromeview.so \
+	vendor/samsung/gapps/system/app/Chrome/app/Chrome/lib/arm/libchromium_android_linker.so:system/app/Chrome/lib/arm/libchromium_android_linker.so \
 	vendor/samsung/gapps/system/app/faceunlock/app/FaceLock/FaceLock.apk:system/app/FaceLock/FaceLock.apk \
 	vendor/samsung/gapps/system/app/faceunlock/lib/libfacelock_jni.so:system/lib/libfacelock_jni.so \
 	vendor/samsung/gapps/system/app/faceunlock/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so \
